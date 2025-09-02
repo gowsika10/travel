@@ -34,7 +34,7 @@ git clone https://github.com/gowsika10/nethra-travels.git
 
 2. Navigate to the project folder:
 
-cd thorabh-travels
+cd nethra-travels
 
 
 3. Open index.html in your browser to view the site.
